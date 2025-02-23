@@ -4,8 +4,6 @@ fclose all;
 close all;
 clc;
 
-addpath('C:\Users\jreagoso\Desktop\DeepSpace_AstroModeling');
-
 %% Initial Conditions(ICs): SUN MJ200 (Earth-Centered-Earth-Fixed)
 global Julian_base_epoch;
 global AU;
